@@ -22,11 +22,11 @@ A simple and interactive web app built with **Streamlit** that classifies SMS me
 
 ---
 
-🤖 Technologies Used:
-  Python
-  Scikit-learn
-  Streamlit
-  Natural Language Processing (NLP)
+🤖 Technologies Used
+  - Python
+  - Scikit-learn
+  - Streamlit
+  - Natural Language Processing (NLP)
 
 ## 🛠️ Installation
 
@@ -35,11 +35,13 @@ A simple and interactive web app built with **Streamlit** that classifies SMS me
 git clone https://github.com/bhautik12345/SMS-Spam-Classifier.git
 cd sms-spam-classifier
 
-2. Install dependencies:
-  pip install -r requirements.txt
+2. **Install dependencies**:
+```bash
+pip install -r requirements.txt
 
-3. Run the app:
-   streamlit run inference.py
+3. **Run the app**:
+```bash
+streamlit run inference.py
 
 
 
