@@ -33,15 +33,17 @@ A simple and interactive web app built with **Streamlit** that classifies SMS me
 1. **Clone this repository**:
 ```bash
 git clone https://github.com/bhautik12345/SMS-Spam-Classifier.git
-cd sms-spam-classifier
+```
 
 2. **Install dependencies**:
 ```bash
 pip install -r requirements.txt
+```
 
 3. **Run the app**:
 ```bash
 streamlit run inference.py
+```
 
 
 
